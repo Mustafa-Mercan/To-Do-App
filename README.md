@@ -1,31 +1,3 @@
-![tsstore](https://github.com/Mustafa-Mercan/To-Do-App/assets/119002048/f6ecfc98-39cf-4e6e-9bb7-2fbc6c0c9f00)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
